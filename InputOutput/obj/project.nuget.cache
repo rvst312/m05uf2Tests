@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbveiyCSAx74rKghBhkcfmMl7vqq8AsG+9u62+LESoaBYzZDBKK813pQMWjBuICl+8+/o6akc75HI/9pE68WRg==",
+  "success": true,
+  "projectFilePath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/InputOutput/01-InputOutput.csproj",
+  "expectedPackageFiles": [
+    "/Users/rvst/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/rvst/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/rvst/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

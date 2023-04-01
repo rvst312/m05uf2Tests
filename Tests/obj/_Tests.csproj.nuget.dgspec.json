@@ -1,0 +1,720 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Tests/_Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Calculator/02-Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Calculator/02-Calculator.csproj",
+        "projectName": "02-Calculator",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Calculator/02-Calculator.csproj",
+        "packagesPath": "/Users/rvst/.nuget/packages/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rvst/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DayOfTheWeek/09-DayOfTheWeek.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DayOfTheWeek/09-DayOfTheWeek.csproj",
+        "projectName": "09-DayOfTheWeek",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DayOfTheWeek/09-DayOfTheWeek.csproj",
+        "packagesPath": "/Users/rvst/.nuget/packages/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DayOfTheWeek/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rvst/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Factorial/03-Factorial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Factorial/03-Factorial.csproj",
+        "projectName": "03-Factorial",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Factorial/03-Factorial.csproj",
+        "packagesPath": "/Users/rvst/.nuget/packages/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Factorial/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rvst/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/06-Palindrome.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/06-Palindrome.csproj",
+        "projectName": "06-Palindrome",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/06-Palindrome.csproj",
+        "packagesPath": "/Users/rvst/.nuget/packages/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rvst/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/05-ParenthesisChecker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/05-ParenthesisChecker.csproj",
+        "projectName": "05-ParenthesisChecker",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/05-ParenthesisChecker.csproj",
+        "packagesPath": "/Users/rvst/.nuget/packages/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rvst/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Primes/07-Primes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Primes/07-Primes.csproj",
+        "projectName": "07-Primes",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Primes/07-Primes.csproj",
+        "packagesPath": "/Users/rvst/.nuget/packages/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Primes/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rvst/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Replace/04-Replace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Replace/04-Replace.csproj",
+        "projectName": "04-Replace",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Replace/04-Replace.csproj",
+        "packagesPath": "/Users/rvst/.nuget/packages/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Replace/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rvst/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/10-Sorting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/10-Sorting.csproj",
+        "projectName": "10-Sorting",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/10-Sorting.csproj",
+        "packagesPath": "/Users/rvst/.nuget/packages/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rvst/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj": {
+                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Tests/_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Tests/_Tests.csproj",
+        "projectName": "_Tests",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Tests/_Tests.csproj",
+        "packagesPath": "/Users/rvst/.nuget/packages/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rvst/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Calculator/02-Calculator.csproj": {
+                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Calculator/02-Calculator.csproj"
+              },
+              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DayOfTheWeek/09-DayOfTheWeek.csproj": {
+                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DayOfTheWeek/09-DayOfTheWeek.csproj"
+              },
+              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Factorial/03-Factorial.csproj": {
+                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Factorial/03-Factorial.csproj"
+              },
+              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/06-Palindrome.csproj": {
+                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/06-Palindrome.csproj"
+              },
+              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/05-ParenthesisChecker.csproj": {
+                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/05-ParenthesisChecker.csproj"
+              },
+              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Primes/07-Primes.csproj": {
+                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Primes/07-Primes.csproj"
+              },
+              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Replace/04-Replace.csproj": {
+                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Replace/04-Replace.csproj"
+              },
+              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/10-Sorting.csproj": {
+                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/10-Sorting.csproj"
+              },
+              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj": {
+                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj",
+        "projectName": "_Utils",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj",
+        "packagesPath": "/Users/rvst/.nuget/packages/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rvst/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
