@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b4WC1C9wlwqrQZpilBtCwPPmj8Rlu0CLyJGduk05SS6vWXqz61ghklrvcLAR30AbYx+3gb/MPr/bgUQOspMmJA==",
+  "dgSpecHash": "UL7bGy+Jdvg6Gxut5FCMtMDxdUgVsehFH9IoHA4guIAOUk0hGkvi8lSjsd40NxFbe1LbsBmCVBBnWbXDDUheHQ==",
   "success": true,
-  "projectFilePath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Tests/_Tests.csproj",
+  "projectFilePath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Tests/_Tests.csproj",
   "expectedPackageFiles": [
     "/Users/rvst/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/Users/rvst/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",

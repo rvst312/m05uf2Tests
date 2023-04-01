@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/10-Sorting.csproj": {}
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/10-Sorting.csproj": {}
   },
   "projects": {
-    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/10-Sorting.csproj": {
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/10-Sorting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/10-Sorting.csproj",
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/10-Sorting.csproj",
         "projectName": "10-Sorting",
-        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/10-Sorting.csproj",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/10-Sorting.csproj",
         "packagesPath": "/Users/rvst/.nuget/packages/",
-        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/obj/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rvst/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj": {
-                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj"
+              "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/_Utils/_Utils.csproj": {
+                "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/_Utils/_Utils.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj": {
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/_Utils/_Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj",
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/_Utils/_Utils.csproj",
         "projectName": "_Utils",
-        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/_Utils/_Utils.csproj",
         "packagesPath": "/Users/rvst/.nuget/packages/",
-        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/obj/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/_Utils/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rvst/.nuget/NuGet/NuGet.Config"

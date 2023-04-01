@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rYWYBgHMLx5Hk3hTzSYrIIem8XhCPq5FONOzWVsCVd3e/QarpKbpCDBJJvzAfyRSMcrriSwc/ZA4BO5bbo4mAw==",
+  "dgSpecHash": "W1nmFdAQxxjkcfXF/987pCl9dWJc2C6de0IYeHdc+MQU8Lv6yQ9qEPJCOmjS3WqI2wbEekb7XyOetMG7iFjE2g==",
   "success": true,
-  "projectFilePath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Primes/07-Primes.csproj",
+  "projectFilePath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Primes/07-Primes.csproj",
   "expectedPackageFiles": [
     "/Users/rvst/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "/Users/rvst/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",

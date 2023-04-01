@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/05-ParenthesisChecker.csproj": {}
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/05-ParenthesisChecker.csproj": {}
   },
   "projects": {
-    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/05-ParenthesisChecker.csproj": {
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/05-ParenthesisChecker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/05-ParenthesisChecker.csproj",
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/05-ParenthesisChecker.csproj",
         "projectName": "05-ParenthesisChecker",
-        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/05-ParenthesisChecker.csproj",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/05-ParenthesisChecker.csproj",
         "packagesPath": "/Users/rvst/.nuget/packages/",
-        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/obj/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rvst/.nuget/NuGet/NuGet.Config"

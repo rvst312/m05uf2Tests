@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/InputOutput/01-InputOutput.csproj": {}
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/01-InputOutput.csproj": {}
   },
   "projects": {
-    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/InputOutput/01-InputOutput.csproj": {
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/01-InputOutput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/InputOutput/01-InputOutput.csproj",
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/01-InputOutput.csproj",
         "projectName": "01-InputOutput",
-        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/InputOutput/01-InputOutput.csproj",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/01-InputOutput.csproj",
         "packagesPath": "/Users/rvst/.nuget/packages/",
-        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/InputOutput/obj/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rvst/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/06-Palindrome.csproj": {}
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/06-Palindrome.csproj": {}
   },
   "projects": {
-    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/06-Palindrome.csproj": {
+    "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/06-Palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/06-Palindrome.csproj",
+        "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/06-Palindrome.csproj",
         "projectName": "06-Palindrome",
-        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/06-Palindrome.csproj",
+        "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/06-Palindrome.csproj",
         "packagesPath": "/Users/rvst/.nuget/packages/",
-        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/obj/",
+        "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rvst/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sn3QTmurzBxQzjPOrhgABd5IiqUZ1aS7eNSSh+lYIjkbkrrkFK3VzGibTQyKPu++kn9UYE5ahF9WrFbSdLElkg==",
+  "dgSpecHash": "iBz0k5vCeoc5vdBLtn0LpSG32ld4UBRguWzRieABb7Jb5wqyycpPuE1KMyEqYgeTNogzpyVnSoBYcEq1vtu9SQ==",
   "success": true,
-  "projectFilePath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DNI/08-DNI.csproj",
+  "projectFilePath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/DNI/08-DNI.csproj",
   "expectedPackageFiles": [
     "/Users/rvst/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "/Users/rvst/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",

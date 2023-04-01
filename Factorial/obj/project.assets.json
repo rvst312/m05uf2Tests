@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Factorial/03-Factorial.csproj",
+      "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/03-Factorial.csproj",
       "projectName": "03-Factorial",
-      "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Factorial/03-Factorial.csproj",
+      "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/03-Factorial.csproj",
       "packagesPath": "/Users/rvst/.nuget/packages/",
-      "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Factorial/obj/",
+      "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rvst/.nuget/NuGet/NuGet.Config"

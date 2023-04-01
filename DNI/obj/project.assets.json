@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DNI/08-DNI.csproj",
+      "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/DNI/08-DNI.csproj",
       "projectName": "08-DNI",
-      "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DNI/08-DNI.csproj",
+      "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/DNI/08-DNI.csproj",
       "packagesPath": "/Users/rvst/.nuget/packages/",
-      "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DNI/obj/",
+      "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/DNI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rvst/.nuget/NuGet/NuGet.Config"

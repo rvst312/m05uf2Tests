@@ -5992,11 +5992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Tests/_Tests.csproj",
+      "projectUniqueName": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Tests/_Tests.csproj",
       "projectName": "_Tests",
-      "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Tests/_Tests.csproj",
+      "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Tests/_Tests.csproj",
       "packagesPath": "/Users/rvst/.nuget/packages/",
-      "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Tests/obj/",
+      "outputPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rvst/.nuget/NuGet/NuGet.Config"
@@ -6011,32 +6011,32 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Calculator/02-Calculator.csproj": {
-              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Calculator/02-Calculator.csproj"
+            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/02-Calculator.csproj": {
+              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/02-Calculator.csproj"
             },
-            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DayOfTheWeek/09-DayOfTheWeek.csproj": {
-              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/DayOfTheWeek/09-DayOfTheWeek.csproj"
+            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/DayOfTheWeek/09-DayOfTheWeek.csproj": {
+              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/DayOfTheWeek/09-DayOfTheWeek.csproj"
             },
-            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Factorial/03-Factorial.csproj": {
-              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Factorial/03-Factorial.csproj"
+            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/03-Factorial.csproj": {
+              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/03-Factorial.csproj"
             },
-            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/06-Palindrome.csproj": {
-              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Palindrome/06-Palindrome.csproj"
+            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/06-Palindrome.csproj": {
+              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/06-Palindrome.csproj"
             },
-            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/05-ParenthesisChecker.csproj": {
-              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/ParenthesisChecker/05-ParenthesisChecker.csproj"
+            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/05-ParenthesisChecker.csproj": {
+              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/05-ParenthesisChecker.csproj"
             },
-            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Primes/07-Primes.csproj": {
-              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Primes/07-Primes.csproj"
+            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Primes/07-Primes.csproj": {
+              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Primes/07-Primes.csproj"
             },
-            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Replace/04-Replace.csproj": {
-              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Replace/04-Replace.csproj"
+            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/04-Replace.csproj": {
+              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/04-Replace.csproj"
             },
-            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/10-Sorting.csproj": {
-              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/Sorting/10-Sorting.csproj"
+            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/10-Sorting.csproj": {
+              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/10-Sorting.csproj"
             },
-            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj": {
-              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/_Utils/_Utils.csproj"
+            "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/_Utils/_Utils.csproj": {
+              "projectPath": "/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/_Utils/_Utils.csproj"
             }
           }
         }
