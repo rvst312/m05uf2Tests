@@ -1,5 +1,27 @@
 ﻿<Properties StartupConfiguration="{823CD144-C47E-4D01-A2F1-91263ECE2BAA}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.01-InputOutput PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Program.cs">
+    <Files>
+      <File FileName="InputOutput/Program.cs" Line="24" Column="21" />
+      <File FileName="Calculator/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ejercicios_M05UF2" expanded="True">
+            <Node name="01-InputOutput" expanded="True" />
+            <Node name="02-Calculator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01-InputOutput PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

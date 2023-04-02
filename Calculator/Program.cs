@@ -12,13 +12,13 @@ namespace Calculator
             string response;
             Console.WriteLine("Enter the first number: ");
             response = Console.ReadLine();
-            numA = int.Parse(response);
+            numA = float.Parse(response);
             Console.WriteLine("Enter the operation: ");
             response = Console.ReadLine();
             operation = response[0];
             Console.WriteLine("Enter the second number: ");
             response = Console.ReadLine();
-            numB = int.Parse(response);
+            numB = float.Parse(response);
 
             switch (operation)
             {
@@ -42,23 +42,23 @@ namespace Calculator
                     break;
             }
         }
-        public static float Sum(int A, int B)
+        public static float Sum(float A, float B)
         {
             return A + B;
         }
-        public static float Substract(int A, int B)
+        public static float Substract(float A, float B)
         {
             return A - B;
         }
-        public static float Divide(int A, int B)
+        public static float Divide(float A, float B)
         {
             return A / B;
         }
-        public static float Multiply(int A, int B)
+        public static float Multiply(float A, float B)
         {
             return A * B;
         }
-        public static float Mod(int A, int B)
+        public static float Mod(float A, float B)
         {
             return A % B;
         }
