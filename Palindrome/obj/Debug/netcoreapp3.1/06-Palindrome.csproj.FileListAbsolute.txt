@@ -1,0 +1,14 @@
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/bin/Debug/netcoreapp3.1/06-Palindrome
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/bin/Debug/netcoreapp3.1/06-Palindrome.deps.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/bin/Debug/netcoreapp3.1/06-Palindrome.runtimeconfig.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/bin/Debug/netcoreapp3.1/06-Palindrome.runtimeconfig.dev.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/bin/Debug/netcoreapp3.1/06-Palindrome.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/bin/Debug/netcoreapp3.1/06-Palindrome.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/obj/Debug/netcoreapp3.1/06-Palindrome.csproj.AssemblyReference.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/obj/Debug/netcoreapp3.1/06-Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/obj/Debug/netcoreapp3.1/06-Palindrome.AssemblyInfoInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/obj/Debug/netcoreapp3.1/06-Palindrome.AssemblyInfo.cs
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/obj/Debug/netcoreapp3.1/06-Palindrome.csproj.CoreCompileInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/obj/Debug/netcoreapp3.1/06-Palindrome.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/obj/Debug/netcoreapp3.1/06-Palindrome.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Palindrome/obj/Debug/netcoreapp3.1/06-Palindrome.genruntimeconfig.cache

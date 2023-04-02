@@ -1,0 +1,14 @@
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/bin/Debug/netcoreapp3.1/05-ParenthesisChecker
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/bin/Debug/netcoreapp3.1/05-ParenthesisChecker.deps.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/bin/Debug/netcoreapp3.1/05-ParenthesisChecker.runtimeconfig.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/bin/Debug/netcoreapp3.1/05-ParenthesisChecker.runtimeconfig.dev.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/bin/Debug/netcoreapp3.1/05-ParenthesisChecker.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/bin/Debug/netcoreapp3.1/05-ParenthesisChecker.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/obj/Debug/netcoreapp3.1/05-ParenthesisChecker.csproj.AssemblyReference.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/obj/Debug/netcoreapp3.1/05-ParenthesisChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/obj/Debug/netcoreapp3.1/05-ParenthesisChecker.AssemblyInfoInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/obj/Debug/netcoreapp3.1/05-ParenthesisChecker.AssemblyInfo.cs
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/obj/Debug/netcoreapp3.1/05-ParenthesisChecker.csproj.CoreCompileInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/obj/Debug/netcoreapp3.1/05-ParenthesisChecker.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/obj/Debug/netcoreapp3.1/05-ParenthesisChecker.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/ParenthesisChecker/obj/Debug/netcoreapp3.1/05-ParenthesisChecker.genruntimeconfig.cache
