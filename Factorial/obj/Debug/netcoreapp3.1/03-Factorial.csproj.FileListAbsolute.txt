@@ -1,0 +1,14 @@
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/bin/Debug/netcoreapp3.1/03-Factorial
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/bin/Debug/netcoreapp3.1/03-Factorial.deps.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/bin/Debug/netcoreapp3.1/03-Factorial.runtimeconfig.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/bin/Debug/netcoreapp3.1/03-Factorial.runtimeconfig.dev.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/bin/Debug/netcoreapp3.1/03-Factorial.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/bin/Debug/netcoreapp3.1/03-Factorial.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/obj/Debug/netcoreapp3.1/03-Factorial.csproj.AssemblyReference.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/obj/Debug/netcoreapp3.1/03-Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/obj/Debug/netcoreapp3.1/03-Factorial.AssemblyInfoInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/obj/Debug/netcoreapp3.1/03-Factorial.AssemblyInfo.cs
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/obj/Debug/netcoreapp3.1/03-Factorial.csproj.CoreCompileInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/obj/Debug/netcoreapp3.1/03-Factorial.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/obj/Debug/netcoreapp3.1/03-Factorial.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Factorial/obj/Debug/netcoreapp3.1/03-Factorial.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "10-Sorting/1.0.0": {
+        "dependencies": {
+          "_Utils": "1.0.0"
+        },
+        "runtime": {
+          "10-Sorting.dll": {}
+        }
+      },
+      "_Utils/1.0.0": {
+        "runtime": {
+          "_Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10-Sorting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

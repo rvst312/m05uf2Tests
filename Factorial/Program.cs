@@ -15,7 +15,7 @@ namespace Factorial
             List<float> numbers = new List<float>();
             for (ulong i = 0; i < num_ammount; i++)
             {
-                numbers.Add(gen.Next(20));
+                numbers.Add(gen.Next(21));
             }
             for (int i = 0; i < numbers.Count; i++)
             {
@@ -43,13 +43,13 @@ namespace Factorial
             {
                 sum += numbers[i];
             }
-            return sum;
+            return sum / numbers.Count;
         }
         public static ulong factorial_recursive(ulong n)
         {
-            if (n < 1)
+            if (n <= 1)
             {
-                return factorial_recursive(n - 1);
+                return 1;
             }
             return n * factorial_recursive(n - 1);
         }

@@ -1,0 +1,17 @@
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/bin/Debug/netcoreapp3.1/10-Sorting
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/bin/Debug/netcoreapp3.1/10-Sorting.deps.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/bin/Debug/netcoreapp3.1/10-Sorting.runtimeconfig.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/bin/Debug/netcoreapp3.1/10-Sorting.runtimeconfig.dev.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/bin/Debug/netcoreapp3.1/10-Sorting.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/bin/Debug/netcoreapp3.1/10-Sorting.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/bin/Debug/netcoreapp3.1/_Utils.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/bin/Debug/netcoreapp3.1/_Utils.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/obj/Debug/netcoreapp3.1/10-Sorting.csproj.AssemblyReference.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/obj/Debug/netcoreapp3.1/10-Sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/obj/Debug/netcoreapp3.1/10-Sorting.AssemblyInfoInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/obj/Debug/netcoreapp3.1/10-Sorting.AssemblyInfo.cs
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/obj/Debug/netcoreapp3.1/10-Sorting.csproj.CoreCompileInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/obj/Debug/netcoreapp3.1/10-Sorting.csproj.CopyComplete
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/obj/Debug/netcoreapp3.1/10-Sorting.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/obj/Debug/netcoreapp3.1/10-Sorting.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Sorting/obj/Debug/netcoreapp3.1/10-Sorting.genruntimeconfig.cache

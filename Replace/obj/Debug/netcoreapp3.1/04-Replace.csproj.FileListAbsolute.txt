@@ -1,0 +1,14 @@
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/bin/Debug/netcoreapp3.1/04-Replace
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/bin/Debug/netcoreapp3.1/04-Replace.deps.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/bin/Debug/netcoreapp3.1/04-Replace.runtimeconfig.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/bin/Debug/netcoreapp3.1/04-Replace.runtimeconfig.dev.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/bin/Debug/netcoreapp3.1/04-Replace.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/bin/Debug/netcoreapp3.1/04-Replace.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/obj/Debug/netcoreapp3.1/04-Replace.csproj.AssemblyReference.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/obj/Debug/netcoreapp3.1/04-Replace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/obj/Debug/netcoreapp3.1/04-Replace.AssemblyInfoInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/obj/Debug/netcoreapp3.1/04-Replace.AssemblyInfo.cs
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/obj/Debug/netcoreapp3.1/04-Replace.csproj.CoreCompileInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/obj/Debug/netcoreapp3.1/04-Replace.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/obj/Debug/netcoreapp3.1/04-Replace.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Replace/obj/Debug/netcoreapp3.1/04-Replace.genruntimeconfig.cache

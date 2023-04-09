@@ -18,7 +18,8 @@ namespace DNI
         /// <returns></returns>
         public static char LetterNIF(int number)
         {
-            return '-';
+            const string chars = "TRWAGMYFPDXBNJZSQVHLCKE";
+            return chars[number % chars.Length];
         }
     }
 }

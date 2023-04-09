@@ -1,0 +1,14 @@
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/bin/Debug/netcoreapp3.1/02-Calculator
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/bin/Debug/netcoreapp3.1/02-Calculator.deps.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/bin/Debug/netcoreapp3.1/02-Calculator.runtimeconfig.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/bin/Debug/netcoreapp3.1/02-Calculator.runtimeconfig.dev.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/bin/Debug/netcoreapp3.1/02-Calculator.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/bin/Debug/netcoreapp3.1/02-Calculator.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/obj/Debug/netcoreapp3.1/02-Calculator.csproj.AssemblyReference.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/obj/Debug/netcoreapp3.1/02-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/obj/Debug/netcoreapp3.1/02-Calculator.AssemblyInfoInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/obj/Debug/netcoreapp3.1/02-Calculator.AssemblyInfo.cs
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/obj/Debug/netcoreapp3.1/02-Calculator.csproj.CoreCompileInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/obj/Debug/netcoreapp3.1/02-Calculator.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/obj/Debug/netcoreapp3.1/02-Calculator.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/Calculator/obj/Debug/netcoreapp3.1/02-Calculator.genruntimeconfig.cache

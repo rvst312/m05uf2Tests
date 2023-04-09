@@ -3,3 +3,17 @@
 /Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/InputOutput/obj/Debug/netcoreapp3.1/01-InputOutput.AssemblyInfoInputs.cache
 /Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/InputOutput/obj/Debug/netcoreapp3.1/01-InputOutput.AssemblyInfo.cs
 /Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/InputOutput/obj/Debug/netcoreapp3.1/01-InputOutput.csproj.CoreCompileInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/bin/Debug/netcoreapp3.1/01-InputOutput
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/bin/Debug/netcoreapp3.1/01-InputOutput.deps.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/bin/Debug/netcoreapp3.1/01-InputOutput.runtimeconfig.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/bin/Debug/netcoreapp3.1/01-InputOutput.runtimeconfig.dev.json
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/bin/Debug/netcoreapp3.1/01-InputOutput.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/bin/Debug/netcoreapp3.1/01-InputOutput.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/obj/Debug/netcoreapp3.1/01-InputOutput.csproj.AssemblyReference.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/obj/Debug/netcoreapp3.1/01-InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/obj/Debug/netcoreapp3.1/01-InputOutput.AssemblyInfoInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/obj/Debug/netcoreapp3.1/01-InputOutput.AssemblyInfo.cs
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/obj/Debug/netcoreapp3.1/01-InputOutput.csproj.CoreCompileInputs.cache
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/obj/Debug/netcoreapp3.1/01-InputOutput.dll
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/obj/Debug/netcoreapp3.1/01-InputOutput.pdb
+/Users/rvst/Desktop/proyect test c#/M05_UF2_P2_ProjectFix/m05uf2Tests/InputOutput/obj/Debug/netcoreapp3.1/01-InputOutput.genruntimeconfig.cache

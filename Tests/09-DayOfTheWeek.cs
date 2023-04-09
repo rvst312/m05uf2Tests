@@ -12,13 +12,13 @@ namespace Tests
         public void DayOfTheWeek_Test()
         {
             //Arrange
-            DateTime time = DateTime.MinValue.AddDays(Utils.random.Next(9999 * 365));
-            int result = 0;
-            int resultOK = (int)time.DayOfWeek;
+            DateTime time = new DateTime(2000, 1, 1).AddDays(Utils.random.Next(365 * 7));
+            DayOfWeek resultOK = time.DayOfWeek;
             //Act
-            result = DayOfTheWeek.Program.DayOfTheWeek(time.Year, time.Month, time.Day);
+            int result = DayOfTheWeek.Program.DayOfTheWeek(time.Year, time.Month, time.Day);
+            DayOfWeek resultEnum = (DayOfWeek)((result + 6) % 7);
             //Assert
-            Assert.AreEqual(resultOK, result);
+            Assert.AreEqual(resultOK, resultEnum);
         }
     }
 }
