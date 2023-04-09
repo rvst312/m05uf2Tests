@@ -12,11 +12,11 @@ namespace ParenthesisChecker
             int close = CountChars(response, ')');
             if(open == close)
             {
-                Console.WriteLine("The parenthesis don't close");
+                Console.WriteLine("The parenthesis close");
             }
             else
             {
-                Console.WriteLine("The parenthesis close");
+                Console.WriteLine("The parenthesis don't close");
             }
         }
         public static int CountChars(string text, char search)
@@ -24,7 +24,7 @@ namespace ParenthesisChecker
             int amount = 0;
             for (int i = 0; i < text.Length; i++)
             {
-                if(text[i] != search)
+                if(text[i] == search)
                     amount++;
             }
             return amount;
