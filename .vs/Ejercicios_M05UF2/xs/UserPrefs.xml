@@ -1,20 +1,19 @@
-﻿<Properties StartupConfiguration="{3454D299-8F15-4D8D-8AF9-EF938A75D978}|Default">
-  <MonoDevelop.Ide.ItemProperties.__Tests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.03-Factorial PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.02-Calculator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Factorial/Program.cs">
+﻿<Properties StartupConfiguration="{E215C4B0-C184-4463-91A2-4F25535F2CD8}|Default">
+  <MonoDevelop.Ide.ItemProperties.01-InputOutput PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07-Primes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Palindrome/Program.cs">
     <Files>
-      <File FileName="Factorial/Program.cs" Line="19" Column="14" />
+      <File FileName="Palindrome/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Ejercicios_M05UF2" expanded="True">
-            <Node name="03-Factorial" expanded="True">
+            <Node name="06-Palindrome" expanded="True">
+              <Node name="Dependencies" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="04-Replace" expanded="True" />
             <Node name="_Tests" expanded="True" />
             <Node name="_Utils" expanded="True">
               <Node name="Dependencies" expanded="True">
@@ -29,7 +28,7 @@
           <Node name="Ejercicios_M05UF2" expanded="True">
             <Node name="_Tests" expanded="True">
               <Node name="Tests" expanded="True">
-                <Node name="Factorial_Tests" expanded="True" selected="True" />
+                <Node name="Palindrome_Tests" expanded="True" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -37,10 +36,18 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.09-DayOfTheWeek PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.__Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06-Palindrome PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04-Replace PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02-Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05-ParenthesisChecker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08-DNI PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.01-InputOutput PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10-Sorting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03-Factorial PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
